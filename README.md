@@ -1,3 +1,6 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+
 # :computer: Gustavo Jansen Butenas
 
 My name is Gustavo Jansen Butenas, a 20-year-old Computer Science student born and raised in Curitiba, Brazil. From an early age, technology has been a constant passion, especially due to its rapid evolution and the direct impact it has on society. Currently seeking growth in the Software Development field and an internship opportunity to apply academic knowledge, gain practical experience, and develop professionally in a technological environment.
@@ -9,6 +12,10 @@ An early involvement with video games sparked a lasting interest in technology a
 
 
 I have a strong interest in understanding how systems work in practice and in continuously deepening my software development knowledge. My previous professional experience helped shape this direction, reinforcing the motivation to grow technically and contribute directly to the development of systems and solutions.
+
+
+<i class="devicon-python-plain"></i>
+          
 <!--
 **jedijansen/jedijansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

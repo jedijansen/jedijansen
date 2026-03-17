@@ -1,5 +1,4 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+         
 
 # :computer: Gustavo Jansen Butenas
 
@@ -14,7 +13,9 @@ An early involvement with video games sparked a lasting interest in technology a
 I have a strong interest in understanding how systems work in practice and in continuously deepening my software development knowledge. My previous professional experience helped shape this direction, reinforcing the motivation to grow technically and contribute directly to the development of systems and solutions.
 
 
-<i class="devicon-python-plain"></i>
+Always learning and evolving in:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
 <!--
 **jedijansen/jedijansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

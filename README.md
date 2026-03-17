@@ -12,7 +12,7 @@ An early involvement with video games sparked a lasting interest in technology a
 
 I have a strong interest in understanding how systems work in practice and in continuously deepening my software development knowledge. My previous professional experience helped shape this direction, reinforcing the motivation to grow technically and contribute directly to the development of systems and solutions.
 
-```Always learning and evolving in:
+`Always learning and evolving in:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
           

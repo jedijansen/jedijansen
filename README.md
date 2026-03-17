@@ -15,7 +15,7 @@ I have a strong interest in understanding how systems work in practice and in co
 
 Always learning and evolving in:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
           
 <!--
 **jedijansen/jedijansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
